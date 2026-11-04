@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi i am namrata c
 ugihli
+=======
+hi i am namrata c from mysore
+>>>>>>> branch1
